@@ -9,7 +9,7 @@ in binary. For example: x^2 + x + 1 = 111 (bit positions map to the degree). Ele
 
 - Addition / Subtraction: a + b = a - b = a ^ b
 
-- Multiplication: a x b (straight out polynomial multiplication
+- Multiplication: a x b (straight out polynomial multiplication)
 
 - Modular Reduction: given a product c = a x b, compute residue e = c MOD F
 
